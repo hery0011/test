@@ -6,7 +6,12 @@
 /*rehefa miantso class dia point*/
 #bonj{
 	color: red;
+	text-align: center;
 }
 .salut{
 	color: green;
+	margin-left: 50px;
+}
+body{
+	background-color: pink;
 }
